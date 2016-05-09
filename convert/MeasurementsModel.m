@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  MeasurementsModel.m
 //  convert
 //
 //  Created by Ericko Hartanto on 2/16/16.
 //  Copyright © 2016 adrian. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "MeasurementsModel.h"
 
-@interface ViewController : UIViewController
-
+@implementation MeasurementsModel
 
 @end
-
